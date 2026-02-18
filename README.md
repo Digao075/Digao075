@@ -1,4 +1,4 @@
-# Hi, I'm [Digao075] 👋 
+# Hi, I'm Digao075 👋 
 
 ### SaaS Engineer | Full-Stack Developer | Distributed Systems Enthusiast
 
