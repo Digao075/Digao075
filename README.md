@@ -27,12 +27,12 @@ I am a software engineer focused on building high-performance, scalable SaaS pla
 
 ## 🏗 Key Projects
 
-### [GlobalProfileSync](https://github.com/yourusername/GlobalProfileSync)
+### [GlobalProfileSync](https://github.com/Digao075/GlobalProfileSync)
 A distributed profile synchronization system for Minecraft networks.
 - **Key Tech:** Java 8, Redis, Jedis, JUnit 5.
 - **Innovation:** Implemented a **Circuit Breaker** fallback strategy to ensure 99.9% data availability even during Redis outages.
 
-### [BullAPI - WhatsApp SaaS](https://github.com/yourusername/BullAPI)
+### [BullAPI - WhatsApp SaaS](https://github.com/Digao075/BullAPI)
 A B2B platform for official WhatsApp Meta Cloud API management.
 - **Key Tech:** TypeScript, React, Node.js, PostgreSQL.
 - **Innovation:** Engineered an automated messaging queue system to handle high-volume B2B traffic while maintaining compliance with rate limits.
